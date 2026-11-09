@@ -1,0 +1,13 @@
+langgraph
+langchain-groq
+langchain-litellm>=0.11.2,<0.12.0
+langchain-core
+python-dotenv
+pydantic
+pytest
+SQLAlchemy>=2.0,<3.0
+alembic>=1.0,<2.0
+streamlit
+requests
+fastapi
+uvicorn

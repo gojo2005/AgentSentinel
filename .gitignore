@@ -1,0 +1,16 @@
+# Environment
+venv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Testing
+.pytest_cache/
+
+# IDE
+.vscode/
+
+# AgentSentinel runtime database
+data/agentsentinel.db
