@@ -481,32 +481,32 @@ The Failures page notes that the executions API does not provide status-filtered
 > **Placeholders:** the images below are referenced by relative path and will render once the files are added to `docs/screenshots/`.
 
 ### Agent Playground
-![Agent Playground](docs/screenshots/01-agent-playground.png)
-*Submitting a question and viewing the agent response.*
+<img width="250" height="102" alt="image" src="https://github.com/user-attachments/assets/56e1e5d1-3a47-4c2c-a659-317d94b40411" />
+
 
 ### Overview
-![Overview](docs/screenshots/02-overview.png)
-*Platform health metrics and charts.*
+<img width="250" height="102" alt="image" src="https://github.com/user-attachments/assets/62773bcc-9681-40e9-886e-e3cccdbc411e" />
+
 
 ### Executions
-![Executions](docs/screenshots/03-executions.png)
-*Execution history and per-run event timeline.*
+<img width="250" height="102" alt="image" src="https://github.com/user-attachments/assets/0c4ec962-155e-4941-a232-eb25208c38e5" />
+
 
 ### Failures
-![Failures](docs/screenshots/04-failures.png)
-*Failure monitoring for the loaded page of executions.*
+<img width="1650" height="805" alt="Screenshot 2026-11-10 022829" src="https://github.com/user-attachments/assets/90d173e7-b4b5-40ba-84bd-cca4fc028b70" />
+
 
 ### Evaluations
-![Evaluations](docs/screenshots/05-evaluations.png)
-*Response evaluation results.*
+<img width="1917" height="781" alt="Screenshot 2026-11-10 024716" src="https://github.com/user-attachments/assets/fb422c0e-c440-4403-a8aa-319ac791702b" />
+
 
 ### Diagnostics
-![Diagnostics](docs/screenshots/06-diagnostics.png)
-*Diagnostic report with status, summary, and findings.*
+<img width="1897" height="876" alt="Screenshot 2026-11-10 022850" src="https://github.com/user-attachments/assets/6e9dcc58-586d-4bc8-8294-652013251b67" />
+
 
 ### Token Usage and Latency
-![Token Usage](docs/screenshots/07-token-usage.png)
-*Provider-reported token usage and per-call LLM latency.*
+<img width="1917" height="820" alt="Screenshot 2026-11-10 024838" src="https://github.com/user-attachments/assets/845ecbc7-0dbf-4291-a736-7d5fc08b8b8c" />
+
 
 ---
 
