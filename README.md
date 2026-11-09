@@ -481,15 +481,17 @@ The Failures page notes that the executions API does not provide status-filtered
 > **Placeholders:** the images below are referenced by relative path and will render once the files are added to `docs/screenshots/`.
 
 ### Agent Playground
-<img width="250" height="102" alt="image" src="https://github.com/user-attachments/assets/56e1e5d1-3a47-4c2c-a659-317d94b40411" />
+<img width="1917" height="865" alt="Screenshot 2026-11-10 022719" src="https://github.com/user-attachments/assets/acfcbf56-a484-4e80-9790-598f617ce377" />
 
 
 ### Overview
-<img width="250" height="102" alt="image" src="https://github.com/user-attachments/assets/62773bcc-9681-40e9-886e-e3cccdbc411e" />
+<img width="1917" height="890" alt="Screenshot 2026-11-10 022747" src="https://github.com/user-attachments/assets/eb5e9c2e-bec9-43f6-ba2b-ce70572d5ba3" />
+
 
 
 ### Executions
-<img width="250" height="102" alt="image" src="https://github.com/user-attachments/assets/0c4ec962-155e-4941-a232-eb25208c38e5" />
+<img width="1917" height="782" alt="Screenshot 2026-11-10 025325" src="https://github.com/user-attachments/assets/77632b95-34af-40a7-80b4-bdc0f471b89c" />
+
 
 
 ### Failures
